@@ -1,10 +1,10 @@
-<Project Sdk="Dalamud.NET.Sdk/14.0.0">
+<Project Sdk="Dalamud.NET.Sdk/14.0.1">
     <PropertyGroup>
         <Version>1.0.1</Version>
         <Platforms>x64</Platforms>
     </PropertyGroup>
     <ItemGroup>
-      <PackageReference Include="JetBrains.Annotations" Version="2024.3.0" />
+      <PackageReference Include="JetBrains.Annotations" Version="2025.2.4" />
     </ItemGroup>
     <Import Project="LLib.targets" />
 </Project>
